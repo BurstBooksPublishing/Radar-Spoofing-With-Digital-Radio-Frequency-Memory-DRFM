@@ -1,0 +1,2 @@
+S_{AM}(\omega) = (A_c/2)[2\pi\delta(\omega-\omega_c) + M\pi\delta(\omega-(\omega_c+\omega_m))
+                + M\pi\delta(\omega-(\omega_c-\omega_m))]
