@@ -1,0 +1,2 @@
+s_{AM}(t) = A_c\cos(\omega_c t) + (A_cM/2)\cos((\omega_c+\omega_m)t)
+          + (A_cM/2)\cos((\omega_c-\omega_m)t)
