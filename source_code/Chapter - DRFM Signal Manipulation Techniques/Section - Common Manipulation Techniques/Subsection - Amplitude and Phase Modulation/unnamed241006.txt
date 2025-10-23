@@ -1,0 +1,1 @@
+BW \approx 2(\Delta f + f_m)
