@@ -1,0 +1,1 @@
+c(t) = A_c\cos(\omega_c t + \phi_c)
