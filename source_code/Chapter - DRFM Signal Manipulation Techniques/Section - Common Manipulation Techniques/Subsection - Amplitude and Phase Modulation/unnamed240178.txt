@@ -1,0 +1,1 @@
+s_{PM}(t) = A_c Re{exp(j\omega_c t)exp(j\beta\cos(\omega_m t))}
