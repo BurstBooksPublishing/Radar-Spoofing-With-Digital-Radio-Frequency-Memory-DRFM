@@ -1,0 +1,2 @@
+\theta(t) = \omega_c t + k_p m_p(t)
+f_i(t) = (1/2\pi)(d\theta/dt) = f_c + (k_p/2\pi)\dot{m}_p(t)
