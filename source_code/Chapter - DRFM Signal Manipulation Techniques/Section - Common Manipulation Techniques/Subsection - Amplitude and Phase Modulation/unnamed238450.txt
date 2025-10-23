@@ -1,0 +1,1 @@
+s_{AM}(t) = [1 + m_a(t)]A_c\cos(\omega_c t)
