@@ -1,0 +1,1 @@
+s_{PM}(t) = A_c \sum_{n=-\infty}^{\infty} J_n(\beta)\cos((\omega_c+n\omega_m)t + n\pi/2)
