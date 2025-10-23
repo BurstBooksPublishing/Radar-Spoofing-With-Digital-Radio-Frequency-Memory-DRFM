@@ -1,0 +1,1 @@
+s_{PM}(t) \approx A_c[\cos(\omega_c t) - k_p m_p(t)\sin(\omega_c t)]
